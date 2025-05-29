@@ -9,6 +9,8 @@
 **Tools**: Excel, Power BI 
 **Libraries**: Pandas, NumPy, Matplotlib
 **Database**: MySQL
+**Data Tools**: DAX, Power Query  
+**Other**: Data Cleaning, Dashboard Design, Data Modeling 
 
 ## Contact
 📧 Email: Abhilashchaudhary28@gmail.com 
